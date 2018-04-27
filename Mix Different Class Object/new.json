@@ -1,0 +1,502 @@
+{
+    "success": true,
+    "message": "Results found successfully.",
+    "status": "1",
+    "data": {
+        "Events": [{
+                   "id": "101",
+                   "title": "Events",
+                   "shareUrl": "http://192.168.17.7/aliyah-media.git/event/event/101-",
+                   "eventimage": "",
+                   "startdate": "2018-05-18",
+                   "starttime": "12:10",
+                   "enddate": "2018-06-1",
+                   "endtime": "03:04",
+                   "venue": "Noida City Center Metro, Sector 39, Noida, Uttar Pradesh",
+                   "street": "Noida City Center Metro, Sector 39, Noida, Uttar Pradesh",
+                   "state": "Uttar Pradesh",
+                   "description": ""
+                   }],
+        "Articles": [{
+                     "id": "155",
+                     "title": "Why do Israel-U.S. relations matter?",
+                     "introtext": "<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/1_Inaugural_Issue/Why_do_ISRAEL-U.S._relations_matter/ISRAEL-US_Large.png\" alt=\"ISRAEL US Large\" /></p> \n<p>In a recent conversation with former-Nevada Congresswoman Shelley Berkley, we asked her why the relationship between Israel and the U.S. was so important. The Chief Executive Officer &amp; Senior Provost of Touro University’s Western Division, who spent 14 years in the House of Representatives expressed, “Israel is the only democracy in a very autocratic part of the world and the United States’ most reliable ally on the planet. It is important not only for Israel, but for the United States, that this relationship appears [to be] and is seamless, indestructible, and indivisible. It is as much to the United States’ benefit to have Israel as a strong ally as it is for Israel to rely and depend on the support of the United States.”</p> \n<p>Having had this conversation with Mrs. Berkley, I felt it necessary to highlight the importance of Aliyah Media and other organizations whose raison d’etre is to create a bridge between Israel and the United States. Politics and religion aside, Israel-U.S. trade amounts to $36 billion annually. Israel may be the land of milk and honey, but some may not realize that the country’s greatest contributions today include methods for water conservation, semiconductors, mobile phone applications, pharmaceuticals, and electronic hardware, among many, many other items that are used by people every single day. And lest anyone forget about the scenic beaches, sunshine, historical sites, and delicious cuisine that travelers from around the world get to enjoy on their visit to the young nation, which turns 70 this year.</p> \n<p>Awareness about Israeli-American relations is not about encouraging support, so much as it is about encouraging engagement. It’s about opening up a dialogue and commercial channels between the two nations. Support for Israel-U.S. relations is about downloading the latest and greatest Israeli app or about taking a vacation to the Red Sea. We hope that Aliyah Media, with the help of Shelley Berkley and other key figures, can open your world to what being a proponent of Israeli-American relations truly means.</p>",
+                     "fulltext": "",
+                     "catid": {
+                     "catid": "37",
+                     "title": "Community/Culture "
+                     },
+                     "articleUrl": "http://192.168.17.7/aliyah-media.git/community-culture/155:why-do-israel-u-s-relations-matter.html",
+                     "created": "2018-03-28 02:59:22",
+                     "modified": "2018-04-04 09:44:10",
+                     "publish_up": "2018-03-28 02:59:22",
+                     "publish_down": "0000-00-00 00:00:00",
+                     "totalLikes": "2",
+                     "userLike": 0,
+                     "commentCount": "0",
+                     "images": {
+                     "image_intro": "http://192.168.17.7/aliyah-media.git/images/1_Inaugural_Issue/Why_do_ISRAEL-U.S._relations_matter/Why_do_Israel-US_Intro.png",
+                     "float_intro": "",
+                     "image_intro_alt": "",
+                     "image_intro_caption": "",
+                     "change": "http://192.168.17.7/aliyah-media.git/1",
+                     "image_fulltext": "",
+                     "float_fulltext": "",
+                     "image_fulltext_alt": "",
+                     "image_fulltext_caption": "",
+                     "video_poster": "",
+                     "video_fulltext": "",
+                     "video_alt": "",
+                     "audio_backbround": "",
+                     "audio_fulltext": "",
+                     "url_fulltext": "",
+                     "articleType": "I"
+                     },
+                     "created_by": {
+                     "id": "381",
+                     "name": "Antonio Rodriguez"
+                     },
+                     "access": "1",
+                     "featured": "1",
+                     "language": "en-US",
+                     "hits": "29",
+                     "tags": {
+                     "typeAlias": null,
+                     "itemTags": []
+                     }
+                     },
+                     {
+                     "id": "156",
+                     "title": "Israel by the numbers",
+                     "introtext": "<h3 class=\"p1\">Immigration at a Glance (since 1948):&nbsp;</h3> \n<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/1_Inaugural_Issue/Israel_by_the_numbers/Immigration.png\" alt=\"Immigration\" /></p> \n<table style=\"width: 350px; float: left; padding: 20px;\"> \n<tbody> \n<tr> \n<td> \n<h3 style=\"text-align: center;\">Fast Facts:</h3> \n<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/1_Inaugural_Issue/Israel_by_the_numbers/Fast_Facts.png\" alt=\"Fast Facts\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p> \n</td> \n</tr> \n</tbody> \n</table> \n<table style=\"width: 350px; float: right; padding: 20px;\"> \n<tbody> \n<tr> \n<td> \n<h3 style=\"text-align: center;\">Ethnic Groups:</h3> \n<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/1_Inaugural_Issue/Israel_by_the_numbers/Ethnic.png\" alt=\"Ethnic\" width=\"300\" height=\"289\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p> \n</td> \n</tr> \n</tbody> \n</table> \n<table style=\"width: 350px; float: left; padding: 20px;\"> \n<tbody> \n<tr> \n<td> \n<h3 style=\"text-align: center;\">Israel’s Top Import/Export Destinations:</h3> \n<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/1_Inaugural_Issue/Israel_by_the_numbers/Import-Export.png\" alt=\"Import Export\" /></p> \n</td> \n</tr> \n</tbody> \n</table> \n<table style=\"width: 350px; float: right; padding: 20px;\"> \n<tbody> \n<tr> \n<td> \n<h3 style=\"text-align: center;\">Languages in Israel:</h3> \n<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/1_Inaugural_Issue/Israel_by_the_numbers/Languages.png\" alt=\"Languages\" width=\"300\" height=\"177\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p> \n</td> \n</tr> \n</tbody> \n</table> \n<h4 style=\"text-align: right;\"><span style=\"font-size: 8pt;\">Sources: Jewish Virtual Library, Berkeley Center, Wikipedia, Alpha Omega Translations</span></h4>",
+                     "fulltext": "",
+                     "catid": {
+                     "catid": "37",
+                     "title": "Community/Culture "
+                     },
+                     "articleUrl": "http://192.168.17.7/aliyah-media.git/community-culture/156:israel-by-the-numbers.html",
+                     "created": "2018-03-28 03:46:58",
+                     "modified": "2018-04-04 09:43:50",
+                     "publish_up": "2018-03-28 03:46:58",
+                     "publish_down": "0000-00-00 00:00:00",
+                     "totalLikes": "0",
+                     "userLike": 0,
+                     "commentCount": "0",
+                     "images": {
+                     "image_intro": "http://192.168.17.7/aliyah-media.git/images/1_Inaugural_Issue/Israel_by_the_numbers/Israel_by_the_numbers_Intro.png",
+                     "float_intro": "",
+                     "image_intro_alt": "",
+                     "image_intro_caption": "",
+                     "change": "http://192.168.17.7/aliyah-media.git/1",
+                     "image_fulltext": "http://192.168.17.7/aliyah-media.git/images/1_Inaugural_Issue/Israel_by_the_numbers/Israel_Large.png",
+                     "float_fulltext": "",
+                     "image_fulltext_alt": "",
+                     "image_fulltext_caption": "",
+                     "video_poster": "",
+                     "video_fulltext": "",
+                     "video_alt": "",
+                     "audio_backbround": "",
+                     "audio_fulltext": "",
+                     "url_fulltext": "",
+                     "articleType": "I"
+                     },
+                     "created_by": {
+                     "id": "381",
+                     "name": "Antonio Rodriguez"
+                     },
+                     "access": "1",
+                     "featured": "1",
+                     "language": "en-US",
+                     "hits": "87",
+                     "tags": {
+                     "typeAlias": null,
+                     "itemTags": []
+                     }
+                     },
+                     {
+                     "id": "157",
+                     "title": "Hope, Happiness and Connecting Through Magic",
+                     "introtext": "<table style=\"margin: 20px; width: 310px; height: 72px; float: right;\"> \n<tbody> \n<tr> \n<td style=\"text-align: center;\"><span style=\"font-family: 'trebuchet ms', geneva; font-size: 14pt; color: #4ac1f0;\">&nbsp;“Ultimately, that’s what magic is all about for me – it’s connecting with people.”</span></td> \n</tr> \n</tbody> \n</table> \n<p>Jen Kramer’s fascination with magic blossomed at age 10, when her Uncle Steve gave her a copy of a book entitled The Royal Road to Card Magic. Drawing inspiration from her magic enthusiast uncle, the Long Island native diligently studied the tricks from the manual, performing her first show at just 11 years of age for her sister’s birthday party.</p> \n<h5> <img src=\"http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Hope_and_Happiness_Through_Magic/Hope_and_Happiness_Through_Magic_Image_1_WEB.png\" alt=\"Hope and Happiness Through Magic Image 1 WEB\" /></h5> \n<h5 style=\"text-align: right;\">Jen Kramer in India collaborating with <em>Magicians Without Borders.</em></h5> \n<table style=\"margin: 0px 20px 0px 0px; width: 350px; float: left;\"> \n<tbody> \n<tr> \n<td> \n<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Hope_and_Happiness_Through_Magic/Hope_and_Happiness_Through_Magic_Image_2_WEB.png\" alt=\"Hope and Happiness Through Magic Image 2 WEB\" /></p> \n<h5>Jen Kramer’s inspiration came from her Uncle Steve and the book <em>The Royal Road to Card Magic</em></h5> \n</td> \n</tr> \n</tbody> \n</table> \n<p>Kramer’s determination and continued absorption in the art form led her to join the Society of Young Magicians, which enabled her to make frequent trips to New York City to meet with fellow apprentices. She dazzled friends, family and classmates with her talent through her teens by performing at birthday parties, Bar Mitzvahs and Bat Mitzvahs. She also attended prestigious Yale University, where she founded the Yale Magic Society and continued to mystify audiences with her illusions at corporate events and college shows.</p> \n<p>And while Uncle Steve and recognized names from the world of magic, such as David Copperfield and Penn &amp; Teller, played a role in inspiring Kramer to continue improving her skills, it was Tom and Janet Verner from Magicians Without Borders who made a major impact in how she was going to use them. The organization, which aims to entertain, educate and empower, has brought magic performances to over half a million people in impoverished and war-torn parts of the world. In 2017, the Yale Magic Society joined forces with Magicians Without Borders to perform fifteen shows in Mumbai and rural Gujarat, India. Kramer exclaims, “I couldn't have been happier to see these two groups I love come together - crossing time zones and language barriers - to make people smile.”</p> \n<p>Though she is very proud of her career and accolades, including the Merlin Award for Best Female Magician of the Year in 2016, she sees her ability to interact with her audience as the most important element of her magic.&nbsp;“Ultimately, that’s what magic is all about for me – it’s connecting with people.”</p> \n<p>To find out more about Jen Kramer and her performances, go to <a href=\"http://www.magicofjen.com\" target=\"_blank\" rel=\"noopener\">www.magicofjen.com</a></p>",
+                     "fulltext": "",
+                     "catid": {
+                     "catid": "37",
+                     "title": "Community/Culture "
+                     },
+                     "articleUrl": "http://192.168.17.7/aliyah-media.git/community-culture/157:hope-happiness-and-connecting-through-magic.html",
+                     "created": "2018-03-28 19:37:51",
+                     "modified": "2018-04-04 09:43:50",
+                     "publish_up": "2018-03-28 19:37:51",
+                     "publish_down": "0000-00-00 00:00:00",
+                     "totalLikes": "0",
+                     "userLike": 0,
+                     "commentCount": "0",
+                     "images": {
+                     "image_intro": "http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Hope_and_Happiness_Through_Magic/Hope_and_Happiness_Through_Magic_Intro.png",
+                     "float_intro": "",
+                     "image_intro_alt": "",
+                     "image_intro_caption": "",
+                     "change": "http://192.168.17.7/aliyah-media.git/1",
+                     "image_fulltext": "http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Hope_and_Happiness_Through_Magic/Top_Image_Hope_and_Happiness.png",
+                     "float_fulltext": "",
+                     "image_fulltext_alt": "",
+                     "image_fulltext_caption": "",
+                     "video_poster": "",
+                     "video_fulltext": "",
+                     "video_alt": "",
+                     "audio_backbround": "",
+                     "audio_fulltext": "",
+                     "url_fulltext": "",
+                     "articleType": "I"
+                     },
+                     "created_by": {
+                     "id": "381",
+                     "name": "Antonio Rodriguez"
+                     },
+                     "access": "1",
+                     "featured": "1",
+                     "language": "en-US",
+                     "hits": "74",
+                     "tags": {
+                     "typeAlias": null,
+                     "itemTags": []
+                     }
+                     },
+                     {
+                     "id": "160",
+                     "title": "Movie Review - Black Panther",
+                     "introtext": "<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Review_Black_Panther/Black_Pather_350px-01.png\" alt=\"Black Pather 350px 01\" style=\"margin: 0px 0px 0px 20px; float: right;\" />The hype is real! Marvel Comics’ newest addition, <em>Black Panther</em>, excels on almost every level, bringing its audience to a new and vibrant level. A feast for the senses and the soul, it’s set in the fictional nation of Wakanda, a country steeped in tradition, yet evolving as it moves into the future.</p> \n<p>Heir to the throne of Wakanda is T’Challa, played by Chadwick Boseman. He is the current holder of the mantle of Black Panther, ruler and protector of the kingdom. The keeper of the Black Panther suit, which makes the wearer practically invincible, has their body infused with an ability-giving heart shaped herb. T’Challa’s forebears have held the mantle for a long time, each new ruler forced into a ritual combat against the strongest warrior from the various tribes, with the winner taking the throne. Though Boseman’s performance is good, he is outshined by his contemporaries in the most important phases of the narrative. It is also hard to feel too much empathy towards a prince who has gotten the royal treatment his entire life. His nemesis, and forgotten blood, is perhaps the best Marvel Comics Universe villain to date.</p> \n<p>This brings us to the challenger to the Wakanda throne, Erik Killmonger, brilliantly portrayed by Michael B. Jordan. His rage and wrath-filled speeches border on truly chilling. The character’s motivations are understandable, yet terrifying in their implications. Here we see a man who literally had to fight his way from the bottom to get what he feels he’s owed.</p> \n<p>Academy Award winner Lupita Nyong’o, who plays international spy Nakia and T’Challa’s love interest, brings morality and warmth to the screen and equals him in confidence and wit. Danai Gurira, of The Walking Dead fame, commands the armies of Wakanda with fierce conviction and loyalty in a truly believable performance. In what is a refreshing look at females in superhero films, the women of Wakanda are portrayed as some of the most powerful arbiters of the culture. They are represented by their determination and strong will throughout the film. Andy Serkis, who recently starred in <em>The Last Jedi</em>, deserves props for an outstanding and unhinged performance as villain Ulysses Klaue.</p> \n<p>The tension throughout the film is constant, as Killmonger gets closer to his ultimate goal, which could lead to the end of the world. The plot leaves you feeling the possibility of a dynamic shift in world philosophy and the enormity of what’s at stake. We are looking at the potential ramifications of one of the most powerful nations on earth opening its borders and technology, for the betterment of the world. But as we’ve learned, this allows their enemies the access and means to wreak havoc.</p> \n<p><em>Black Panther</em> is a colorful and vibrant feast for the eyes, aided by a score that mixes contemporary rap and R&amp;B with African hymns and soul music that fits perfectly with the feel of the film.</p> \n<p>Directed by Ryan Coogler, this film shares an important and timely message pertaining to race relations and opposing ideologies within the African American community and how they’re perceived in our growing and changing world. The inherent truths about how this world was built are topics deftly handled within the context of the film.</p> \n<p>The evolution of Marvel Cinematic Universe has reached new heights. <em>Black Panther</em> stands next to the best of the best, as it continues to shatter box office records.</p> \n<p><span style=\"color: #40b1ff;\"><strong>A solid five-out-of-five - this film is lit.</strong></span></p>",
+                     "fulltext": "",
+                     "catid": {
+                     "catid": "37",
+                     "title": "Community/Culture "
+                     },
+                     "articleUrl": "http://192.168.17.7/aliyah-media.git/community-culture/160:review-black-panther.html",
+                     "created": "2018-03-29 05:19:36",
+                     "modified": "2018-04-04 09:43:50",
+                     "publish_up": "2018-03-29 05:19:36",
+                     "publish_down": "0000-00-00 00:00:00",
+                     "totalLikes": "0",
+                     "userLike": 0,
+                     "commentCount": "0",
+                     "images": {
+                     "image_intro": "http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Review_Black_Panther/Black_Pather_350px-01.png",
+                     "float_intro": "",
+                     "image_intro_alt": "",
+                     "image_intro_caption": "",
+                     "change": "http://192.168.17.7/aliyah-media.git/1",
+                     "image_fulltext": "",
+                     "float_fulltext": "",
+                     "image_fulltext_alt": "",
+                     "image_fulltext_caption": "",
+                     "video_poster": "",
+                     "video_fulltext": "",
+                     "video_alt": "",
+                     "audio_backbround": "",
+                     "audio_fulltext": "",
+                     "url_fulltext": "",
+                     "articleType": "I"
+                     },
+                     "created_by": {
+                     "id": "381",
+                     "name": "Antonio Rodriguez"
+                     },
+                     "access": "1",
+                     "featured": "1",
+                     "language": "en-US",
+                     "hits": "18",
+                     "tags": {
+                     "typeAlias": null,
+                     "itemTags": []
+                     }
+                     },
+                     {
+                     "id": "161",
+                     "title": "Movie Review - Game Night",
+                     "introtext": "<p><em> <img src=\"http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Review_Game_Night/Game_Night_350px-01.png\" alt=\"Game Night 350px 01\" style=\"margin: 0px 20px 0px 0px; float: left;\" />Game Night</em> stars Jason Bateman and Rachel McAdams as an uber competitive couple who host weekly game nights with their friends. This hilarious, yet utterly awkward story, makes for a funny and suspenseful film full of twists and turns. Inspired by young directors, Jonathan M. Goldstein and John Francis Daley, <em>Game Night</em> could be considered a modern take on the 80’s cult-classic game “Clue,” albeit with an unsettling and squeamish flavor.</p> \n<p>Though friendly competition is healthy, <em>Game Night</em> takes it to another level. The fun begins with an attempt at a fake murder mystery, arranged by Bateman’s onscreen brother Brooks, played hilariously by Kyle Chandler, of <em>Friday Night Lights</em> fame. Brooks hires a company that runs mock mystery scenarios, which gets botched when Brooks gets kidnapped unbeknownst to the group.</p> \n<p>Among the other couples that take part in the events of the night are Sharon Horgan and Billy Magnussen as co-workers Sarah and Ryan. Ryan is a young, ditzy womanizer who is always bringing a different and vacuous date to game night. However, on this particular occasion, in an attempt to win game night, he invites the older, smarter and attractive Sarah, whom he refers to as British - although she is actually Irish. The mismatch between this odd “couple” is entertaining to watch, particularly as the unexpected sexual tension between the two slowly, but surely, unfolds throughout the movie.</p> \n<p>Lamorne Morris, from the televisions show <em>New Girl</em>, and Kylie Bunbury, play Kevin and Michelle - grade school sweethearts, who are beginning to question their relationship, after Michelle’s supposed indiscretion with a famous celebrity. Jesse Plemons rounds up the main cast with his portrayal of neighbor Gary, who is a favorite among viewers, with his creepy and awkward lines.</p> \n<p>The mystery doesn’t completely unfold until the last 15 minutes of the film, and just when you think you have the puzzle figured out…you realize that you were wrong.</p> \n<p><em>Game Night</em> is a light ride that resolves all of the major subplots in a satisfying, yet somewhat cliched way. The capable cast holds it together, making it a setup for a sequel that will hopefully never happen. This is a movie that should quit while they’re ahead.</p> \n<p><span style=\"color: #1e9b3e;\"><strong>A solid three out of five - go for the laughs and stay for the suspense. This movie is mindless entertainment at its best.</strong></span></p>",
+                     "fulltext": "",
+                     "catid": {
+                     "catid": "37",
+                     "title": "Community/Culture "
+                     },
+                     "articleUrl": "http://192.168.17.7/aliyah-media.git/community-culture/161:review-game-night.html",
+                     "created": "2018-03-29 05:33:35",
+                     "modified": "2018-04-04 09:43:50",
+                     "publish_up": "2018-03-29 05:33:35",
+                     "publish_down": "0000-00-00 00:00:00",
+                     "totalLikes": "0",
+                     "userLike": 0,
+                     "commentCount": "0",
+                     "images": {
+                     "image_intro": "http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Review_Game_Night/Game_Night_350px-01.png",
+                     "float_intro": "",
+                     "image_intro_alt": "",
+                     "image_intro_caption": "",
+                     "change": "http://192.168.17.7/aliyah-media.git/1",
+                     "image_fulltext": "",
+                     "float_fulltext": "",
+                     "image_fulltext_alt": "",
+                     "image_fulltext_caption": "",
+                     "video_poster": "",
+                     "video_fulltext": "",
+                     "video_alt": "",
+                     "audio_backbround": "",
+                     "audio_fulltext": "",
+                     "url_fulltext": "",
+                     "articleType": "I"
+                     },
+                     "created_by": {
+                     "id": "381",
+                     "name": "Antonio Rodriguez"
+                     },
+                     "access": "1",
+                     "featured": "1",
+                     "language": "en-US",
+                     "hits": "16",
+                     "tags": {
+                     "typeAlias": null,
+                     "itemTags": []
+                     }
+                     },
+                     {
+                     "id": "162",
+                     "title": "Love and Family: A Recipe for Success",
+                     "introtext": "<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Choose_Happiness/Love_and_Family/Love_and_Family_850px_DSC_7780.png\" alt=\"Love and Family 850px DSC 7780\" /></p> \n<p>If you could bottle up Sondra Piorek’s energy and sell it, you would be a millionaire overnight. As the CEO of marketing and public relations for internationally renowned lifestyle brand</p> \n<table style=\"margin: 20px; width: 310px; float: left;\"> \n<tbody> \n<tr> \n<td style=\"text-align: center;\"><span style=\"color: #fbb03b;\"><strong><span style=\"font-family: 'trebuchet ms', geneva; font-size: 14pt;\">“Our jewelry is an extension of our family and of our heart.”</span></strong></span></td> \n</tr> \n</tbody> \n</table> \n<p>Kate Mesta, Sondra represents her creative partner with passion and gratitude, which is transparent in every story she tells - whether it’s describing something regarding her family or musing about the cup of coffee she drank that morning. Philosopher Epictetus stated, “He is a man of sense who does not grieve for what he has not, but rejoices in what he has.” Sondra manifests this through focusing on what she has been blessed with in her life, rather than dwelling on what may be missing.</p> \n<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Choose_Happiness/Love_and_Family/Hamsa_350px_DSC_7742.png\" alt=\"Hamsa 350px DSC 7742\" style=\"margin: 0px 0px 0px 20px; float: right;\" />An excellent storyteller, she brought tears to our eyes during the interview, as she recounted stories about her family, including the loss of her mother at a young age, leaving her to be raised by her older brother. And yet, throughout what could be seen as a difficult upbringing by many, that experience has been a source of strength for her. It spills over into the way she describes the Kate Mesta brand and what it represents. “Our brand is our family: Kate, myself, Dylan, and Mackenna.” Any question about the company and its line of one-of-a-kind, wearable pieces of art in the form of dog tags draws reference to countless, yet touching and positive stories about family. Sondra describes the running of the business as being one with love, intentionality, and working together through tough times.</p> \n<p>Her journey with Kate Mesta began a decade ago. “We wanted to create a brand that was catered to each individual.” The company’s fashionable dog tags are produced from originals that are manufactured as standard military issue. They begin their unique journey, handmade with love, out of the company’s Laguna Beach studio, which Sondra refers to as “small, but mighty.”</p> \n<p>The creative mastermind behind the company, Kate Mesta, joined us for the interview, which we conducted at the most recent MAGIC Convention in Las Vegas, cradling one of their rescue puppies, Roo. “These dog tags are like puppies to us, and our responsibility is to find them a home.”</p> \n<p>The energy between Sondra and Kate is fervent and powerful. They continually bounced back and forth with excitement about their brand and future. Once again, Sondra emphasized the importance of family, stating, “Our jewelry is an extension of our family and of our heart.” They described that their mission is to touch people’s lives and hearts, regardless of whether they are top-performing pop celebrities or casual admirers and wearers of their artistic dog tags. “To us, every single piece matters.”</p>",
+                     "fulltext": "",
+                     "catid": {
+                     "catid": "37",
+                     "title": "Community/Culture "
+                     },
+                     "articleUrl": "http://192.168.17.7/aliyah-media.git/community-culture/162:love-and-family-a-recipe-for-success.html",
+                     "created": "2018-03-29 06:27:35",
+                     "modified": "2018-04-04 09:43:50",
+                     "publish_up": "2018-03-29 06:27:35",
+                     "publish_down": "0000-00-00 00:00:00",
+                     "totalLikes": "0",
+                     "userLike": 0,
+                     "commentCount": "0",
+                     "images": {
+                     "image_intro": "http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Choose_Happiness/Love_and_Family/Love_and_Family_Intro.png",
+                     "float_intro": "",
+                     "image_intro_alt": "",
+                     "image_intro_caption": "",
+                     "change": "http://192.168.17.7/aliyah-media.git/1",
+                     "image_fulltext": "",
+                     "float_fulltext": "",
+                     "image_fulltext_alt": "",
+                     "image_fulltext_caption": "",
+                     "video_poster": "",
+                     "video_fulltext": "",
+                     "video_alt": "",
+                     "audio_backbround": "",
+                     "audio_fulltext": "",
+                     "url_fulltext": "",
+                     "articleType": "I"
+                     },
+                     "created_by": {
+                     "id": "381",
+                     "name": "Antonio Rodriguez"
+                     },
+                     "access": "1",
+                     "featured": "1",
+                     "language": "en-US",
+                     "hits": "48",
+                     "tags": {
+                     "typeAlias": null,
+                     "itemTags": []
+                     }
+                     },
+                     {
+                     "id": "165",
+                     "title": "Recognizing Excellence in Women Entrepreneurship",
+                     "introtext": "<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Recognizing_Excellence_in_Women_Entrepreneurship/WOMEN_IMAGE_1_850px.png\" alt=\"WOMEN IMAGE 1 850px\" /></p> \n<table style=\"margin: 0px 20px; width: 310px; float: right;\"> \n<tbody> \n<tr> \n<td style=\"text-align: center;\"><span style=\"font-size: 14pt; color: #00ccff;\"><strong><span style=\"font-family: 'trebuchet ms', geneva;\">Hedges and Koplovitz use their platforms to help women entrepreneurs advance their business concepts.</span></strong></span></td> \n</tr> \n</tbody> \n</table> \n<p>Ruth E. Hedges and Kay Koplovitz were among the honorees at the inaugural Advancing Diversity Dinner at Caesars Palace during CES week. Around 300 attendees were on hand to recognize business leaders who have advanced diversity in the workplace. Facebook, Google and Disney were among the supporting partners of the event.</p> \n<table style=\"margin: 0px 20px 0px 0px; width: 350px; float: left;\"> \n<tbody> \n<tr> \n<td> \n<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Recognizing_Excellence_in_Women_Entrepreneurship/WOMEN_IMAGE_3_350px.png\" alt=\"WOMEN IMAGE 3 350px\" /></p> \n<h4 style=\"text-align: center;\">Ruth E. Hedges</h4> \n</td> \n</tr> \n</tbody> \n</table> \n<p>Crowdfunding pioneer Ruth E. Hedges accepted an award for her tireless work in helping women entrepreneurs get their businesses funded with the aid of her annual Global Crowdfunding Convention and her platform, CrowdfundingCRM. Ruth’s efforts helped get Title III of the Jobs Act passed, which allows for unaccredited investors to participate in equity crowdfunding campaigns. Before the 2012 passage of the Act, only investors making at least $200,000 and with a net worth over $1 million could invest in such ventures.</p> \n<p>Kay Koplovitz, who was the co-founder of the Madison Square Garden Sports Network, which later became the USA Networks, was another key honoree. She is the Co-Founder and Chairman of Springboard Enterprises, an accelerator that selects women-led enterprises to develop their business plans and seek funding. For the last 9 years, Springboard Enterprises has brought women-led Israeli companies to the forefront, including a number of ventures founded by Michal Tsur, who has been dubbed the “Iron Lady” of Israeli startups. Most recently, Springboard has worked with virtual fitting room app Zeekit, which was founded by former members of the Israeli Air Force and raised $9 million in Series A funding back in 2016.</p> \n<table style=\"margin: 0px 0px 0px 20px; width: 350px; float: right;\"> \n<tbody> \n<tr> \n<td> \n<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Recognizing_Excellence_in_Women_Entrepreneurship/WOMEN_IMAGE_2_350px.png\" alt=\"WOMEN IMAGE 2 350px\" /></p> \n<h4>Founded by Kay Koplovitz, the Madison Square Garden Sports Network, would go on to become USA Network</h4> \n</td> \n</tr> \n</tbody> \n</table> \n<p>When it comes to women in entrepreneurship, and particularly in technology, both honorees think there is still much progress to be made. Koplovitz sees that women have much higher rates of participation in the areas of science, technology, engineering and mathematics (STEM) in other countries, such as China, India, and Pakistan. Both, she and Hedges agree that the major turning point in the U.S. is during adolescence, where social pressures may influence young women’s decisions not to continue pursuing their interest in STEM. Hedges also believes that women are not taught to be investors, but rather consumers; something that she hopes will change through education. She also sees that male entrepreneurs have stronger business networks than women, which can give them access to quick and easy capital. In spite of this, Hedges points out a statistic that women entrepreneurs tend to raise 32% more in crowdfunding campaigns than men. She attributes this to women simply being better communicators.</p> \n<p>Hedges hopes the growth in women entrepreneurship continues. She sees entrepreneurs as the job creators of the world; and we need more of them. Koplovitz hopes that women can be catalysts to help their peers who are still working their way up the rungs. And though things may seem chaotic in the market at the moment, she insists that it’s a good thing, because it opens the door for opportunity and change.</p>",
+                     "fulltext": "",
+                     "catid": {
+                     "catid": "37",
+                     "title": "Community/Culture "
+                     },
+                     "articleUrl": "http://192.168.17.7/aliyah-media.git/community-culture/165:recognizing-excellence-in-women-entrepreneurship.html",
+                     "created": "2018-03-30 01:19:49",
+                     "modified": "2018-04-04 09:43:50",
+                     "publish_up": "2018-03-30 01:19:49",
+                     "publish_down": "0000-00-00 00:00:00",
+                     "totalLikes": "5",
+                     "userLike": 0,
+                     "commentCount": "0",
+                     "images": {
+                     "image_intro": "http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Recognizing_Excellence_in_Women_Entrepreneurship/WOMEN_Intro.png",
+                     "float_intro": "",
+                     "image_intro_alt": "",
+                     "image_intro_caption": "",
+                     "change": "http://192.168.17.7/aliyah-media.git/1",
+                     "image_fulltext": "",
+                     "float_fulltext": "",
+                     "image_fulltext_alt": "",
+                     "image_fulltext_caption": "",
+                     "video_poster": "",
+                     "video_fulltext": "",
+                     "video_alt": "",
+                     "audio_backbround": "",
+                     "audio_fulltext": "",
+                     "url_fulltext": "",
+                     "articleType": "I"
+                     },
+                     "created_by": {
+                     "id": "381",
+                     "name": "Antonio Rodriguez"
+                     },
+                     "access": "1",
+                     "featured": "1",
+                     "language": "en-US",
+                     "hits": "31",
+                     "tags": {
+                     "typeAlias": null,
+                     "itemTags": []
+                     }
+                     },
+                     {
+                     "id": "167",
+                     "title": "Yom Ha’atzmaut",
+                     "introtext": "<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Yom_Haatzmaut/Yom_Haatzmaut_850px.png\" alt=\"Yom Haatzmaut 850px\" /></p> \n<p>While Memorial Day in the U.S. is about barbecues and family gatherings, in Israel, it is a more solemn holiday. &nbsp;And because most Israelis have served in the military in one way or another, Memorial Day is essentially a celebration of most, if not all, of the country’s citizens.</p> \n<p>This holiday, otherwise known as <em>Yom Hazikaron</em>, and Independence Day, known as <em>Yom Ha’atzmaut</em> in Hebrew, are celebrated back-to-back, over two consecutive days. Israel declared independence on May 14,1948 (5 of Iyar on the Hebrew calendar), when British rule in Palestine ended.</p> \n<table style=\"margin: 0px 0px 0px 20px; width: 350px; float: right;\"> \n<tbody> \n<tr> \n<td> \n<h4> <img src=\"http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Yom_Haatzmaut/Israeli_Air_Force_350px.png\" alt=\"Israeli Air Force 350px\" /></h4> \n<h6>Image: Oren Rozen</h6> \n<h4>The Israeli Air Force Aerobatic Team performing over Ramat David AFB on Israel's 69th Independence Day.</h4> \n</td> \n</tr> \n</tbody> \n</table> \n<p>Preparations for the two holidays begin on the eve of Memorial Day, as all shops shut down for the next 24 hours. The day is filled with moments of silence, prayers and ceremonies in commemoration of those who have served, as well as those who have made the ultimate sacrifice for Israel.</p> \n<p>As Memorial Day comes to an end, it is immediately followed by Independence Day. This holiday more resembles the Fourth of July in the U.S., as people gather with friends and family for picnics and barbecues. Most Israelis get to enjoy the day off work to take part in the day’s activities, which include speeches from members of Parliament, and an air show over the country’s coastline, courtesy of the Air Force. The Independence Day festivities conclude with fireworks and parties late into the evening. <em>Yom Ha’atzmaut!</em></p>",
+                     "fulltext": "",
+                     "catid": {
+                     "catid": "37",
+                     "title": "Community/Culture "
+                     },
+                     "articleUrl": "http://192.168.17.7/aliyah-media.git/community-culture/167:yom-haatzmaut.html",
+                     "created": "2018-03-30 03:44:47",
+                     "modified": "2018-04-04 09:43:50",
+                     "publish_up": "2018-03-30 03:44:47",
+                     "publish_down": "0000-00-00 00:00:00",
+                     "totalLikes": "3",
+                     "userLike": 0,
+                     "commentCount": "0",
+                     "images": {
+                     "image_intro": "http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Yom_Haatzmaut/Yom_Haatzmaut_Intro.png",
+                     "float_intro": "",
+                     "image_intro_alt": "",
+                     "image_intro_caption": "",
+                     "change": "http://192.168.17.7/aliyah-media.git/1",
+                     "image_fulltext": "",
+                     "float_fulltext": "",
+                     "image_fulltext_alt": "",
+                     "image_fulltext_caption": "",
+                     "video_poster": "",
+                     "video_fulltext": "",
+                     "video_alt": "",
+                     "audio_backbround": "",
+                     "audio_fulltext": "",
+                     "url_fulltext": "",
+                     "articleType": "I"
+                     },
+                     "created_by": {
+                     "id": "381",
+                     "name": "Antonio Rodriguez"
+                     },
+                     "access": "1",
+                     "featured": "1",
+                     "language": "en-US",
+                     "hits": "32",
+                     "tags": {
+                     "typeAlias": null,
+                     "itemTags": []
+                     }
+                     },
+                     {
+                     "id": "172",
+                     "title": "Letter from the Editor",
+                     "introtext": "<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Letter_from_the_Editor/Cover_600px.png\" alt=\"Cover 600px\" style=\"margin: 0px 20px 0px 0px; float: left;\" /></p> \n<p>Greetings!</p> \n<p>What in the world do magic and technology have in common? One is an art form inspired from mysticism, and the other is a science based on fact and logic. While they may seem to reside at polar opposites of one another, the editorial team at Aliyah Media explored how technology brings magic to our everyday lives, as well as how it is influencing illusionists.</p> \n<p>This month's issue features a look into both worlds, including candid conversations with some of the biggest names in magic, as well as a review of mobile apps that harness mind-blowing technology, not to distance us from others, but rather, to bring us closer to our core. This tees me up for another topic that we explored this month: Happiness.</p> \n<p>Aliyah Media prides itself on our mission to deliver positive messages and to encourage people to engage with one another and their communities with kindness and goodwill. In this issue, we explored methods to boost happiness levels, with the intent of inspiring our readers to try them. This will be an ongoing narrative month-to-month, though we may not be so blatant in future issues. Still, we hope that you can find the hidden, positive messages in our articles.</p> \n<p>Lastly, I'm happy that you have the opportunity to access our stories online through our interactive website. We hope you enjoy the experience and I would love to hear your comments and suggestions. Feel free to email me at: <a href=\"mailto:editorial@aliyahmedia.com\">editorial@aliyahmedia.com</a></p> \n<p>Cheers!</p> \n<p style=\"margin: 0px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 12pt; color: #000000;\">David Grana</span></p> \n<p style=\"margin: 0px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 12pt; color: #000000;\">Editor</span></p> \n<p style=\"margin: 0px;\"><span style=\"font-family: 'book antiqua', palatino; font-size: 12pt; color: #000000;\">Aliyah Media</span></p>",
+                     "fulltext": "",
+                     "catid": {
+                     "catid": "37",
+                     "title": "Community/Culture "
+                     },
+                     "articleUrl": "http://192.168.17.7/aliyah-media.git/community-culture/172:letter-from-the-editor.html",
+                     "created": "2018-04-03 01:03:03",
+                     "modified": "2018-04-04 09:43:50",
+                     "publish_up": "2018-04-03 01:03:03",
+                     "publish_down": "0000-00-00 00:00:00",
+                     "totalLikes": "10",
+                     "userLike": 0,
+                     "commentCount": "0",
+                     "images": {
+                     "image_intro": "http://192.168.17.7/aliyah-media.git/images/2_April_Issue/Letter_from_the_Editor/Cover_350px.png",
+                     "float_intro": "",
+                     "image_intro_alt": "",
+                     "image_intro_caption": "",
+                     "change": "http://192.168.17.7/aliyah-media.git/1",
+                     "image_fulltext": "",
+                     "float_fulltext": "",
+                     "image_fulltext_alt": "",
+                     "image_fulltext_caption": "",
+                     "video_poster": "",
+                     "video_fulltext": "",
+                     "video_alt": "",
+                     "audio_backbround": "",
+                     "audio_fulltext": "",
+                     "url_fulltext": "",
+                     "articleType": "I"
+                     },
+                     "created_by": {
+                     "id": "381",
+                     "name": "Antonio Rodriguez"
+                     },
+                     "access": "1",
+                     "featured": "1",
+                     "language": "en-US",
+                     "hits": "47",
+                     "tags": {
+                     "typeAlias": null,
+                     "itemTags": []
+                     }
+                     },
+                     {
+                     "id": "176",
+                     "title": "We rise: Heroes Emerge",
+                     "introtext": "<p class=\"p1\">What is a hero? If you walk into a sandwich shop, you’ll certainly find one variation of the definition. But in the context of people, what makes someone a hero? Though the word’s etymology is somewhat nebulous, the words “to protect”, “to preserve”, and “demi-god” have been associated with its original definition. According to Wikipedia, a classical hero was a warrior who lived and died in pursuit of honor.</p> \n<table style=\"margin: 0px 20px 0px 0px; float: left;\"> \n<tbody> \n<tr> \n<td style=\"text-align: center; vertical-align: middle;\"> \n<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/1_Inaugural_Issue/We_rise_-_Heroes_Emerge/We_rise_Uri.png\" alt=\"We rise Uri\" /></p> \n<table style=\"width: 350px; height: 300px;\"> \n<tbody> \n<tr> \n<td style=\"background-color: #eeeeee; text-align: center; vertical-align: middle;\"> \n<p style=\"text-align: center;\">“Heroism is plain, like unschooled decency. It’s a lit match in darkness.”</p> \n<p style=\"text-align: center;\"><span style=\"font-size: 14pt; color: #ff6600;\"><strong><span style=\"font-family: helvetica;\">URI RESNICK</span></strong></span></p> \n<dl><dt><span style=\"font-size: 8pt;\"><strong><span style=\"color: #000000; font-family: helvetica;\"><span style=\"color: #ff6600;\">ISRAELI DIPLOMAT AND ASPIRING WRITER</span><br /></span></strong></span></dt></dl></td> \n</tr> \n</tbody> \n</table> \n</td> \n</tr> \n</tbody> \n</table> \n<table> \n<tbody> \n<tr> \n<td style=\"text-align: center; vertical-align: middle;\"> \n<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/1_Inaugural_Issue/We_rise_-_Heroes_Emerge/We_rise_Steve.png\" alt=\"We rise Steve\" /></p> \n<table style=\"width: 350px; height: 300px;\"> \n<tbody> \n<tr> \n<td style=\"background-color: #eeeeee; text-align: center; vertical-align: middle;\"> \n<p style=\"text-align: center;\">“Heroes show us that they are more concerned about the well-being of others and their community than they are about themselves. A firefighter who runs towards gunfire to see who needs medical assistance is a hero. A police officer who pursues a madman firing hundreds of bullets a minute is a hero.”</p> \n<p style=\"text-align: center;\"><span style=\"font-size: 14pt; color: #ff6600;\"><strong><span style=\"font-family: helvetica;\">STEVE SISOLAK</span></strong></span></p> \n<dl><dt><span style=\"font-size: 8pt; color: #ff6600;\"><strong><span style=\"font-family: helvetica;\">CLARK COUNTY</span></strong></span></dt><dt><span style=\"font-size: 8pt; color: #ff6600;\"><strong><span style=\"font-family: helvetica;\">COMMISSION CHAIRMAN</span></strong></span></dt></dl></td> \n</tr> \n</tbody> \n</table> \n</td> \n</tr> \n</tbody> \n</table> \n<p></p> \n<table style=\"margin: 0px 20px 0px 0px; width: 350px; float: left;\"> \n<tbody> \n<tr> \n<td> \n<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/1_Inaugural_Issue/We_rise_-_Heroes_Emerge/We_rise_Omri.png\" alt=\"We rise Omri\" /></p> \n<table style=\"width: 350px; height: 300px;\"> \n<tbody> \n<tr> \n<td style=\"background-color: #eeeeee; text-align: center; vertical-align: middle;\"> \n<p style=\"text-align: center;\">“Heroism is knowing how to recover from the lowest moment in your life.”</p> \n<p style=\"text-align: center;\"><span style=\"font-size: 14pt; color: #ff6600;\"><strong><span style=\"font-family: helvetica;\">OMRI ASSENHEIM</span></strong></span></p> \n<dl><dt><span style=\"font-size: 8pt; color: #ff6600;\"><strong><span style=\"font-family: helvetica;\">JOURNALIST, AUTHOR, AND DIRECTOR</span></strong></span></dt></dl></td> \n</tr> \n</tbody> \n</table> \n</td> \n</tr> \n</tbody> \n</table> \n<p>Every generation and time period has had their own versions of heroes. In a lecture entitled “Is Superman Jewish”, Pratt University’s Rabbi Simcha Weinstein (a.k.a. The Comic Book Rabbi), described Superman as the hero – or superhero – of that era, who gave Jews and non-Jews alike hope of an Allied victory during the darkest days of World War II. Weinstein says that a superhero “can come in all shapes and sizes, but what makes them special&nbsp;is the courage and ability to face fears.” Former-Nevada Congresswoman Shelley Berkley, whose grandparents escaped the tyranny of Second World War Europe, defines a hero as someone who rises above themselves at any given moment to do something extraordinary for their fellow man.</p> \n<p class=\"p1\">Though the Man of Steel is confined to the world of fiction, all would agree that the true heroes of that era were the men and women who contributed to the effort that eventually saw downfall of the Third Reich. And since then, society has identified sports figures, comic book characters, politicians, and even film stars as heroes. But what qualities must someone have to merit such an honor?</p> \n<p class=\"p1\">In the wake of the mass shooting on the Las Vegas Strip this past October, Clark County Commissioner Steve Sisolak stated that “heroes show us that they are more concerned about the well-being of others and their community than they are about themselves.” Berkley, who currently resides in the Las Vegas area, expressed the pride she has for her hometown because of the <br /> heroism displayed by first responders and ordinary citizens alike in the wake of the October tragedy. She recalled the tireless efforts of the men and women on the front line, as well as the endless generosity of fellow Las Vegans, who stepped up to donate blood, food, money and supplies for the victims and their families.</p> \n<p class=\"p1\">Fearlessness, integrity, altruism, bravery, and honor. Are these the building blocks of a hero?</p> \n<p class=\"p1\">Over the past 20 years, society has experienced a number of tragic terrorist acts, shootings, and even wars. And in those 20 years, we have come to recognize the police officers, firefighters, paramedics, soldiers, and even the 911 operators that have responded to these incidents, not as people doing their jobs, but as heroes. In fact, at a recent concert, acclaimed singer and co-writer of the song “We Are the World”, Lionel Richie announced that he had over 400 first-responders as his special guests.</p> \n<table style=\"margin: 0px 20px 0px 0px; width: 350px; float: left;\"> \n<tbody> \n<tr> \n<td> \n<table> \n<tbody> \n<tr> \n<td style=\"text-align: center;\"> \n<table> \n<tbody> \n<tr> \n<td> \n<table> \n<tbody> \n<tr> \n<td> \n<table> \n<tbody> \n<tr> \n<td> \n<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/1_Inaugural_Issue/We_rise_-_Heroes_Emerge/We_rise_Shelley.png\" alt=\"We rise Shelley\" /></p> \n<table style=\"width: 350px; height: 300px;\"> \n<tbody> \n<tr> \n<td style=\"background-color: #eeeeee; text-align: center; vertical-align: middle;\"> \n<p style=\"text-align: center;\">“Rising above yourself at any given moment and doing something extraordinary for your fellow man, such as speaking out when others are afraid to, stepping up when others don’t, and I think it’s important to understand that it’s not always easy to do that, but the few that do are the heroes.”</p> \n<p style=\"text-align: center;\"><span style=\"font-size: 14pt; color: #ff6600;\"><strong><span style=\"font-family: helvetica;\">SHELLEY BERKLEY<br /></span></strong></span></p> \n<dl><dt><span style=\"font-size: 8pt; color: #ff6600;\"><strong><span style=\"font-family: helvetica;\">CEO &amp; SENIOR PROVOST OF TOURO UNIVERSITY’S </span></strong></span></dt><dt><span style=\"font-size: 8pt; color: #ff6600;\"><strong><span style=\"font-family: helvetica;\">WESTERN DIVISION</span></strong></span></dt></dl></td> \n</tr> \n</tbody> \n</table> \n</td> \n</tr> \n</tbody> \n</table> \n</td> \n</tr> \n</tbody> \n</table> \n</td> \n</tr> \n</tbody> \n</table> \n</td> \n</tr> \n</tbody> \n</table> \n</td> \n</tr> \n</tbody> \n</table> \n<table style=\"width: 350px;\"> \n<tbody> \n<tr> \n<td> \n<p> <img src=\"http://192.168.17.7/aliyah-media.git/images/1_Inaugural_Issue/We_rise_-_Heroes_Emerge/We_rise_Simcha.png\" alt=\"We rise Simcha\" /></p> \n<table style=\"width: 350px; height: 300px;\"> \n<tbody> \n<tr> \n<td style=\"background-color: #eeeeee; text-align: center; vertical-align: middle;\"> \n<p style=\"text-align: center;\">“A superhero can come in all shapes and sizes but what makes them special is: the courage and ability to face fears.”</p> \n<p style=\"text-align: center;\"><span style=\"font-size: 14pt; color: #ff6600;\"><strong><span style=\"font-family: helvetica;\">RABBI SIMCHA WEINSTEIN<br /></span></strong></span></p> \n<dl><dt><span style=\"font-size: 8pt; color: #ff6600;\"><strong><span style=\"font-family: helvetica;\">PUBLISHED AUTHOR AND RABBI</span></strong></span></dt></dl></td> \n</tr> \n</tbody> \n</table> \n</td> \n</tr> \n</tbody> \n</table> \n<p>&nbsp;</p> \n<p class=\"p1\">But unlike in Hollywood films, heroism is not always about glory. There isn’t always a special invitation to a concert or a plaque or a medal ceremony. Sometimes, heroes make the ultimate sacrifice. Regardless, heroes all demonstrate that very quality: sacrifice. To heroes, it doesn’t matter that there are challenges and perils in their paths. Their dedication is unwavering. But challenges need not be in the form of gunfire or explosions. They can come in the form of helping people with physical or mental disabilities, of comforting someone who is dealing with a great loss in their life, or even of feeding and clothing communities in need.</p> \n<p class=\"p1\">A hero illuminates our darkness. A hero inspires us and awakens our desire to do what’s right in the face of adversity. A hero gives us the same hope that two young Jewish men from Ohio gave to an entire generation and many to follow with their red-caped symbol of <span class=\"s1\"><i>Tzedakah </i></span>(justice, righteousness, charity).</p>",
+                     "fulltext": "",
+                     "catid": {
+                     "catid": "37",
+                     "title": "Community/Culture "
+                     },
+                     "articleUrl": "http://192.168.17.7/aliyah-media.git/community-culture/176:we-rise-heroes-emerge.html",
+                     "created": "2018-04-04 04:10:43",
+                     "modified": "2018-04-04 09:43:50",
+                     "publish_up": "2018-04-04 04:10:43",
+                     "publish_down": "0000-00-00 00:00:00",
+                     "totalLikes": "5",
+                     "userLike": 0,
+                     "commentCount": "0",
+                     "images": {
+                     "image_intro": "http://192.168.17.7/aliyah-media.git/images/1_Inaugural_Issue/We_rise_-_Heroes_Emerge/We_rise_Intro.png",
+                     "float_intro": "",
+                     "image_intro_alt": "",
+                     "image_intro_caption": "",
+                     "change": "http://192.168.17.7/aliyah-media.git/1",
+                     "image_fulltext": "http://192.168.17.7/aliyah-media.git/images/1_Inaugural_Issue/We_rise_-_Heroes_Emerge/We_rise_TOP.png",
+                     "float_fulltext": "",
+                     "image_fulltext_alt": "",
+                     "image_fulltext_caption": "",
+                     "video_poster": "",
+                     "video_fulltext": "",
+                     "video_alt": "",
+                     "audio_backbround": "",
+                     "audio_fulltext": "",
+                     "url_fulltext": "",
+                     "articleType": "I"
+                     },
+                     "created_by": {
+                     "id": "381",
+                     "name": "Antonio Rodriguez"
+                     },
+                     "access": "1",
+                     "featured": "1",
+                     "language": "en-US",
+                     "hits": "117",
+                     "tags": {
+                     "typeAlias": null,
+                     "itemTags": []
+                     }
+                     }
+                     ]
+    }
+}
